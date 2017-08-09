@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.learningjhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.6.2",
+    "baseName": "learnjhipster",
+    "packageName": "com.learningjhipster",
+    "packageFolder": "com/learningjhipster",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "bcf2bed1b8f07bbceaf00a044099dc680bfa485a",
+    "enableTranslation": true,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "pt-br"
+    ],
+    "clientPackageManager": "yarn"
+  }
+}
